@@ -15,6 +15,7 @@ namespace ConsoleApp1
                  Console.WriteLine("year 255x semester 1,i have to regrade on some course");
             Console.WriteLine("ได้พบกับ microcontrller");
             Console.WriteLine("ได้ออกฝึกงาน");
+            Console.WriteLine("ได้เรื่มต้นทำโปรเจค");
         }
     }
 }
