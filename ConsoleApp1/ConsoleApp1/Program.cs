@@ -13,6 +13,7 @@ namespace ConsoleApp1
             Console.WriteLine("year 255x semester 1,i am an engedu freshman.")
             Console.WriteLine("year 255x semester 1,i learn to program in c shrp")
                  Console.WriteLine("year 255x semester 1,i have to regrade on some course");
+            Console.WriteLine("ได้พบกับ microcontrller");
         }
     }
 }
