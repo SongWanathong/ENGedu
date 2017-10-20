@@ -16,6 +16,7 @@ namespace ConsoleApp1
             Console.WriteLine("ได้พบกับ microcontrller");
             Console.WriteLine("ได้ออกฝึกงาน");
             Console.WriteLine("ได้เรื่มต้นทำโปรเจค");
+            Console.WriteLine("เรียนจบ");
         }
     }
 }
