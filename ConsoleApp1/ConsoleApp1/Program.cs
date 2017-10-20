@@ -11,6 +11,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.WriteLine("year 255x semester 1,i am an engedu freshman.")
-        }
+            Console.WriteLine("year 255x semester 1,i learn to program in c shrp")
+                }
     }
 }
